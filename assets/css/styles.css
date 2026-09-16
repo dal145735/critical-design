@@ -44,6 +44,10 @@ h2{
 	font-size: 40px;
 	color: blue;
 	text-align: left;
+	font-family: "Jost", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 900;
+	font-style: normal;
 }
 
 h3{
